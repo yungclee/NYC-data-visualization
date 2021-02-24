@@ -5,7 +5,6 @@ author: "Yung-Chun Lee"
 header-includes:
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
-- \fancyhead[CO,CE]{STATS506 Final project}
 - \fancyfoot[CO,CE]{Yung-Chun Lee}
 - \fancyfoot[LE,RO]{\thepage}
 output: 
